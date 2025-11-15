@@ -1,0 +1,1 @@
+Place your headshot and resume PDF in this folder. Name resume as Sojib_Hossain_Resume.pdf.
